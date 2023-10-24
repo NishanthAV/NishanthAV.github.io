@@ -1,0 +1,17 @@
+title: <p align="center"> Nishanth A V </p>
+logo: /assets/img/fraud_detection.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/nishanth-av-a74139147/">LinkedIn</a> |
+  <a href="https://github.com/NishanthAV">GitHub</a>
+  
+  <br>   
+  Software Engineer with expertise in AWS(EC2,ECR,S3,ROUTE53,IAM,CODEDEPLOY,AMPLIFY,RDS), Jenkins, Docker, Kubernates,CI/CD, ReactJS, NodeJS, Linux(Amazon Linux 2 & Ubuntu), SQL, Git, Python, Bash-Scripting,Jira, Powershell, PostgressSQL, Java(OOPS) ,Robot Framework(Automation Testing), looking for a challenging career opportunity and collaboration in Software development.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
